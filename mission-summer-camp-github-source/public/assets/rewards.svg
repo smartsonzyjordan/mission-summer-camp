@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-label="Reward vault">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="36%" r="68%">
+      <stop stop-color="#4c1d95"/>
+      <stop offset=".67" stop-color="#101435"/>
+      <stop offset="1" stop-color="#030712"/>
+    </radialGradient>
+    <linearGradient id="box" x1="185" y1="240" x2="540" y2="590">
+      <stop stop-color="#fbbf24"/>
+      <stop offset=".6" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="720" rx="56" fill="url(#bg)"/>
+  <circle cx="146" cy="136" r="7" fill="#fef3c7"/>
+  <circle cx="578" cy="140" r="6" fill="#93c5fd"/>
+  <circle cx="110" cy="520" r="5" fill="#c4b5fd"/>
+  <path d="M164 314h392v260c0 27-22 49-49 49H213c-27 0-49-22-49-49z" fill="url(#box)"/>
+  <path d="M138 251h444v88H138z" fill="#fbbf24"/>
+  <path d="M334 234h52v389h-52z" fill="#7c3aed"/>
+  <path d="M138 286h444" stroke="#fff7ed" stroke-width="16" opacity=".65"/>
+  <path d="M344 245c-54-77-125-94-155-61-31 34 8 86 155 61z" fill="#a78bfa"/>
+  <path d="M376 245c54-77 125-94 155-61 31 34-8 86-155 61z" fill="#60a5fa"/>
+  <path d="M299 446l36-7 17-32 18 32 36 7-25 27 5 37-34-16-33 16 5-37z" fill="#fff7ed"/>
+</svg>
